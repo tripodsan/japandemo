@@ -16,7 +16,7 @@
   -->
 ![helix-logo](./helix_logo.png)
 
-# Helix - japan1
+# Helix is Cool
 
 It works! japan1 is up and running.
 

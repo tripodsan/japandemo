@@ -23,6 +23,7 @@
  */
 function pre(payload) {
   payload.content.time = `${new Date()}`;
+  payload.content.foo = 'nice weather.';
 }
 
 module.exports.pre = pre;

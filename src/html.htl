@@ -28,9 +28,9 @@
 <div data-sly-list="${content.children}">
     <div class="container">${item}</div>
 </div>
-
+${content.foo}
 <hr>
-<em>generated at ${content.time}</em>
+<em>generated at ${content.time}</em>zoo
 
 </body>
 </html>
