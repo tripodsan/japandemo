@@ -1,4 +1,5 @@
 .hlx/
+.hlxenv
 .cache/
 .DS_Store
 node_modules/
